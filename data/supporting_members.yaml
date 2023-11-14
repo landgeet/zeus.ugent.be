@@ -715,3 +715,18 @@ data:
       links:
         - icon: github
           url: https://github.com/mivdnber
+    - name: Ieben Smessaert
+      nickname: smessie
+      photo: https://pics.zeus.gent/VvSd28TgoBLjYs3hWga500jI8MqEOAtjs94KhRmz.jpg
+      quote: Zuig Zuig Zuig Nat Nat Nat
+      description: Kan elk gesprekonderwerp in solid doen veranderen
+      links:
+        - icon: github
+          url: https://github.com/smessie
+        - icon: twitter
+          url: https://x.com/smessie_
+        - icon: mastodon
+          url: https://mastodon.zeus.gent/@ieben
+        - icon: linkedin
+          url: https://www.linkedin.com/in/ieben-smessaert/
+        - url: https://smessaert.be
